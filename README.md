@@ -9,7 +9,7 @@ Javascript or Typescript**
 Valverde](https://www.linkedin.com/in/david-valverde-oria-84064810b/)**
 
 <br/>
-<p>Languages or tools that I use frecuently:</p>
+<p>Languages or tools I use frequently:</p>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
 		<img
