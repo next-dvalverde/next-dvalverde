@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm David Valverde</h1>
 
-- 🔭 I’m currently working on [Next Digital](https://www.nextdigital.es/) - 💬 Ask me about **Java, Terraform,
-Javascript or Typescript** - 📫 How to reach me **[David
+- 🔭 I’m currently working on [Next Digital](https://www.nextdigital.es/) 
+
+- 💬 Ask me about **Java, Terraform,
+Javascript or Typescript** 
+
+- 📫 How to reach me **[David
 Valverde](https://www.linkedin.com/in/david-valverde-oria-84064810b/)**
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+<p>Languages or tools that I use frecuently:</p>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
 		<img
@@ -84,7 +89,7 @@ Valverde](https://www.linkedin.com/in/david-valverde-oria-84064810b/)**
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<p>Connect with me:</p>
 <p align="left">
 	<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-valverde-oria-84064810b/" target="blank"
 		><img
