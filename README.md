@@ -88,19 +88,6 @@ Valverde](https://www.linkedin.com/in/david-valverde-oria-84064810b/)**
 	/>
 </p>
 
-
-<p>Connect with me:</p>
-<p align="left">
-	<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-valverde-oria-84064810b/" target="blank"
-		><img
-			align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-			alt="https://www.linkedin.com/in/david-valverde-oria-84064810b/"
-			height="30"
-			width="40"
-	/></a>
-</p>
-
 <br />
 <p align="center">
 	<img src="https://visitor-badge.glitch.me/badge?page_id=next-dvalverde" alt="next-dvalverde" />
