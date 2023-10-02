@@ -81,12 +81,6 @@ Valverde](https://www.linkedin.com/in/david-valverde-oria-84064810b/)**
 	</a>
 </p>
 <br />
-<p align="center">
-	<img
-		src="https://github-readme-stats.vercel.app/api?username=next-dvalverde&show_icons=true&theme=dark"
-		alt="next-dvalverde"
-	/>
-</p>
 
 <br />
 <p align="center">
